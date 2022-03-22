@@ -1,5 +1,5 @@
 ## About Me
-`Linux` `BSD` `Blockchain` `Open Source` `Finance`
+`Linux` | `BSD` | `Blockchain` | `Open Source` | `Finance` |
 
 My name is Rily Dunlap - My main interests fall under the realm of being a nerd, my favorite topics are the following:
 - Linux, BSD, or any other open source operating systems
